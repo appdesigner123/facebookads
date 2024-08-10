@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_marginTop="20sp"
+        android:id="@+id/banner_ad_50"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="90sp"
+        android:layout_marginTop="40sp"
+        android:id="@+id/banner_ad_90"/>
+
+
+
+
+
+
+</LinearLayout>
