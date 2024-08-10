@@ -129,7 +129,7 @@ public class MainActivity extends AppCompatActivity {
         // Replace this with your actual test placement ID
         String placementId = "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID";
         AdSettings.addTestDevice("03fb35f6-a81c-471e-af40-444c5adbb174");
-
+//my code changes
         RelativeLayout banner50 = findViewById(R.id.banner_ad_50);
         RelativeLayout banner90 = findViewById(R.id.banner_ad_90);
 
